@@ -1,4 +1,4 @@
-# Survival Shooter Game - Built Using Unity
+# Endless Survival - Built Using Unity
 This repository contains the script files for this game.
 
 ### Game details
