@@ -1,4 +1,14 @@
-# Game_Unity_SurvivalShooterGame
- 
-Built scripts from scratchBuilt game using Unity assets
+# Survival Shooter Game - Built Using Unity
+This repository contains the script files for this game.
+
+### Game details
+Unity Version 2018<br/>
+3D game<br/>
+Scripts written in C#<br/>
+Singleplayer 
+
+### Work Done
+Designed the scenes<br/>
+Built game using Unity assets<br/>
 Built scripts from scratch
+
